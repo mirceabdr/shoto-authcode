@@ -52,6 +52,8 @@ write_pwd_xml() → config/pwd.xml
 ## 📦 Installation
 
 ```bash
+
+
 git clone https://github.com/USERNAME/ShotoHasher.git
 cd ShotoHasher
 ▶️ Usage
