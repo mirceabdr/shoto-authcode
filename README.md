@@ -4,7 +4,6 @@
 
 ![Shoto Password Hasher](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shoto%20Password%20Hasher&fontSize=40&fontColor=ffffff)
 
----
 
 ## 🧠 Overview
 
@@ -21,7 +20,6 @@ The generator takes:
 * Double MD5 hashing pipeline
 * Standardized XML output
 
----
 
 ## ⚙️ Features
 
@@ -31,7 +29,6 @@ The generator takes:
 * 🔹 CLI-based interactive usage  
 * 🔹 Clean and documented code
 
----
 
 ## 🔬 Algorithm Flow
 
@@ -47,7 +44,6 @@ MD5 final (uppercase)
 write_pwd_xml() → config/pwd.xml
 
 
----
 
 ## 📦 Installation
 
@@ -69,6 +65,7 @@ python shoto_hasher.py
 
 Output:
 pwd.xml  ← generated automatically
+
 
 ## 🔑 Parameters
 Param	Description
